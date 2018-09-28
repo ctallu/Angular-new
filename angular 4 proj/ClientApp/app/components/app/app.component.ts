@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
 //        min-height: 1px;
 //        padding-right: 15px;
 //        padding-left: 15px;
-//        float: left;
+//        float: left;///
 //}`
         
 
@@ -23,4 +23,5 @@ export class AppComponent {
 
     pageheader: string = "employee details";
     employee: string = "";
+
 }
